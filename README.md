@@ -6,6 +6,8 @@ A dark VS Code theme with castle-night plum, a golden ballgown, an enchanted ros
 
 ## Palette
 
+<img src="images/palette.png" alt="Rose Princess palette">
+
 <!-- palette:start -->
 | Role | Color |
 | --- | --- |
