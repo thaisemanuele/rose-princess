@@ -2,9 +2,10 @@
   "name": "rose-princess",
   "displayName": "Rose Princess",
   "description": "A dark VS Code theme with castle-night plum, a golden ballgown, an enchanted rose and old library parchment.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "thaisemanuele",
   "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.90.0"
   },

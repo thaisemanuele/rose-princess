@@ -1,5 +1,7 @@
 # Rose Princess
 
+<p align="center"><img src="images/banner.png" alt="Rose Princess" width="320"></p>
+
 A dark VS Code theme with castle-night plum, a golden ballgown, an enchanted rose and old library parchment.
 
 ## Palette
