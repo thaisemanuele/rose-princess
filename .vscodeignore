@@ -1,0 +1,6 @@
+.vscode/**
+.gitignore
+*.vsix
+images/**
+demo/**
+palette.json
