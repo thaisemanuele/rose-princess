@@ -17,7 +17,7 @@ A dark VS Code theme with castle-night plum, a golden ballgown, an enchanted ros
 | Functions, keys, attributes | `#f7c6cf` |
 | Strings | `#9cc7ae` |
 | Types, numbers, cursor | `#f5dfc0` |
-| Rare accent (this, regex, enum members) | `#f2708e` |
+| Rare accent (this, regex, enum members) | `#e8476b` |
 <!-- palette:end -->
 
 ## Install
